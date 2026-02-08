@@ -1,0 +1,1 @@
+# R script placeholder for price trend analysis
