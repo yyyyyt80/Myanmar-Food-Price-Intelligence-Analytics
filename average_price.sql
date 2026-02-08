@@ -1,0 +1,1 @@
+SELECT product, AVG(price) FROM food_prices GROUP BY product;
